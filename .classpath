@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/POS/2-30-916ee5e89542/lib/hibernate-core-4.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/POS/2-30-916ee5e89542/build/dist/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/mysql-connector-java-5.1.31/mysql-connector-java-5.1.31-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/freemarker-2.3.20/freemarker.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/evo-inflector-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/POS/2-30-916ee5e89542/lib/derby.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/POS/2-30-916ee5e89542/lib/hibernate-commons-annotations-4.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/POS/2-30-916ee5e89542/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/POS/2-30-916ee5e89542/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/POS/2-30-916ee5e89542/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/Downloads/POS/2-30-916ee5e89542/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/.m2/repository/org/json/json/20090211/json-20090211.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/kbethalam/.m2/repository/com/google/guava/guava/17.0/guava-17.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
